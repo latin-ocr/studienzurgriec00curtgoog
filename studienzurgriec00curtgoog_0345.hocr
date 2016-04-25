@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./studienzurgriec00curtgoog_0345.png"; bbox 0 0 3575 5334; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 621 1578 1176 1673">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 621 1578 1176 1673">
+     <span class='ocr_line' id='line_1_1' title="bbox 621 1578 1176 1673; baseline 0.005 -4"><span class='ocrx_word' id='word_1_1' title='bbox 621 1582 678 1671; x_wconf 83' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_2' title='bbox 705 1578 962 1673; x_wconf 82' lang='lat' dir='ltr'><strong>NOMINIBUS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 991 1579 1176 1673; x_wconf 74' lang='lat' dir='ltr'>LATINIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 318 1737 1508 2110">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 318 1737 1508 2110">
+     <span class='ocr_line' id='line_1_2' title="bbox 318 1737 1508 1906; baseline 0.001 -1"><span class='ocrx_word' id='word_1_4' title='bbox 318 1787 724 1906; x_wconf 67' lang='lat' dir='ltr'>,SUFFIXORUM</span> <span class='ocrx_word' id='word_1_5' title='bbox 775 1788 936 1903; x_wconf 71' lang='grc' dir='ltr'>ΕΝΤ-</span> <span class='ocrx_word' id='word_1_6' title='bbox 980 1789 1051 1903; x_wconf 76' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_7' title='bbox 1101 1787 1298 1906; x_wconf 73' lang='lat' dir='ltr'>MlNo-</span> <span class='ocrx_word' id='word_1_8' title='bbox 1345 1737 1459 1906; x_wconf 79' lang='lat' dir='ltr'>OPE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1506 1742 1508 1745; x_wconf 57' lang='lat'><strong><em>‘</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 773 2017 1031 2110; baseline 0.008 -2"><span class='ocrx_word' id='word_1_10' title='bbox 773 2017 1031 2110; x_wconf 61' lang='grc' dir='ltr'>ῈΟΗΜΑΤΙὸ.ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 813 2756 991 2810">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 813 2756 991 2810">
+     <span class='ocr_line' id='line_1_4' title="bbox 813 2756 991 2810; baseline -0.011 -1"><span class='ocrx_word' id='word_1_11' title='bbox 813 2756 974 2810; x_wconf 81' lang='lat' dir='ltr'><strong>SCRIPSIT</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 989 2804 991 2807; x_wconf 88' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 668 2929 1117 3001">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 668 2929 1117 3001">
+     <span class='ocr_line' id='line_1_5' title="bbox 668 2929 1117 3001; baseline 0 -1"><span class='ocrx_word' id='word_1_13' title='bbox 668 2930 795 3000; x_wconf 86' lang='grc' dir='ltr'><strong>ΟΤΤΟ</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 835 2929 1117 3001; x_wconf 77' lang='lat' dir='ltr'><strong>BEGHSTEIN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1792 5334">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1792 5334">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1792 5334; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1792 5334; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
